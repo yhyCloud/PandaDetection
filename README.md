@@ -1,2 +1,2 @@
 # PandaDetection
-基于QT&amp;Ppython的熊猫检测系统
+基于QT&amp;Python的熊猫检测系统
