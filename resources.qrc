@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>icon/002.png</file>
+        <file>icon/009.png</file>
+        <file>icon/028.png</file>
+        <file>icon/046.png</file>
+        <file>icon/027.png</file>
+        <file>icon/warning.png</file>
+        <file>icon/047.png</file>
+        <file>icon/description.png</file>
+        <file>icon/pwd.png</file>
+        <file>icon/role.png</file>
+        <file>icon/user1.png</file>
+        <file>icon/099.png</file>
+        <file>icon/Big.png</file>
+        <file>icon/timg.jpg</file>
+        <file>icon/地图信息.png</file>
+        <file>icon/视频1.png</file>
+        <file>icon/视频2.png</file>
+        <file>icon/视频检索.png</file>
+        <file>icon/图像1.png</file>
+        <file>icon/图像3.png</file>
+        <file>icon/图像4.png</file>
+        <file>icon/图像5.png</file>
+        <file>icon/图像检索.png</file>
+        <file>icon/用户管理.png</file>
+    </qresource>
+</RCC>
