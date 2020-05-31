@@ -3,7 +3,7 @@
 
 本项目前端界面实现采用qt编写，后端熊猫检测算法在Tensorflow ObjectDetection的API上进行改进.实现了对图像以及视频中的大熊猫检测的功能
 
-系统界面1是图像选择界面，可以从计算机本地选择图片进行检测
+系统界面1是图像选择界面，可以从计算机本地选择要进行检测的图像
 ![image](https://github.com/yhyCloud/PandaDetection/blob/master/%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA/%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A21.png)
 
 系统界面2为图像实时检测结果界面，实时显示检测进度以及显示已检测图像的结果
