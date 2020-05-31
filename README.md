@@ -1,5 +1,6 @@
 # PandaDetection
 基于QT&amp;Python的熊猫检测系统
+
 本项目前端界面实现采用qt编写，后端熊猫检测算法在Tensorflow objectDetection的API上进行改进.实现了对图像的大熊猫检测以及对视频中的大熊猫检测
 系统界面1是图像选择界面，可以从计算机本地选择图片进行检测
 ![image](https://github.com/yhyCloud/PandaDetection/blob/master/%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA/%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A21.png)
